@@ -1,0 +1,9 @@
+{
+  "name": "SIAGA ABSEN TAMALATE",
+  "description": "Aplikasi Absensi Pegawai Pemerintah Kota Makassar Kecamatan Tamalate dengan fitur foto dan lokasi real-time.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
